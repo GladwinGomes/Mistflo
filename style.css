@@ -178,17 +178,17 @@
 
 /* Navbar Section */
 .navbar_{
-    top: 0 !important;
-    position: sticky !important;
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    padding: 10px 20px !important;
-    font-family: sans-serif !important;
-    font-size: 20px !important;
-    color: white !important;
-    background-color: #264866 !important;
-    z-index: 1000 !important;
+    top: 0;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #264866;
+    z-index: 1000;
 }
 
 .logo img{
