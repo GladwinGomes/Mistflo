@@ -202,33 +202,33 @@
     font-size: 24px;
 }
 
-.navbar .offcanvas{
+.navbar_ .offcanvas{
     background-color: #264866;
     color: white;
 }
 
-.navbar .menu{
+.navbar_ .menu{
     list-style: none;
     padding: 0;
 }
 
-.navbar .menu li{
+.navbar_ .menu li{
     padding: 11px 32px;
 }
 
-.navbar .menu a{
+.navbar_ .menu a{
     text-decoration: none;
     color: white;
 }
 
-.navbar .nav{
+.navbar_ .nav{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
 }
 
-.navbar .logo{
+.navbar_ .logo{
     padding-right: 12px;
 }
 
@@ -375,7 +375,7 @@
 }
 
 @media (max-width: 1024px) {
-    .navbar .nav {
+    .navbar_ .nav {
         display: none;
     }
 
@@ -383,7 +383,7 @@
         display: block;
     }
 
-    .navbar .logo {
+    .navbar_ .logo {
         padding-right: 0px;
     }
 }
@@ -395,7 +395,7 @@
 }
 
 @media (max-width: 480px) {
-    .navbar {
+    .navbar_ {
         justify-content: space-between;
         padding: 10px 15px;
     }
