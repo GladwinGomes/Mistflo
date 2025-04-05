@@ -177,7 +177,7 @@
 
 
 /* Navbar Section */
-.navbar{
+.navbar_{
     top: 0 !important;
     position: sticky !important;
     display: flex !important;
